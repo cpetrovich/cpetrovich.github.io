@@ -10,3 +10,6 @@
 main:
   - title: "Research Group"
     url: /publications/
+
+  - title: "CV"
+    url: /cv/
