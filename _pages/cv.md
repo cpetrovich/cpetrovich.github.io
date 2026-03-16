@@ -31,13 +31,13 @@ Exoplanet dynamics and the formation and evolution of planetary systems, includi
 
 ## Education
 **Princeton University** — Ph.D. Astrophysical Sciences (2015)  
-Advisor: Scott Tremaine :contentReference[oaicite:0]{index=0}
+Advisor: Scott Tremaine 
 
 **Pontificia Universidad Católica de Chile**  
-B.Sc. Astronomy (2008) :contentReference[oaicite:1]{index=1}  
+B.Sc. Astronomy (2008)   
 
 **Pontificia Universidad Católica de Chile**  
-Mathematical Engineering (2009) :contentReference[oaicite:2]{index=2}
+Mathematical Engineering (2009) 
 
 ---
 
@@ -55,7 +55,7 @@ Mathematical Engineering (2009) :contentReference[oaicite:2]{index=2}
 ## Publications
 - **63 refereed papers** (29 first-author or student-led)  
 - **ADS citations:** 2700+  
-- **h-index:** 28 :contentReference[oaicite:3]{index=3}
+- **h-index:** 28 
 
 Selected work includes studies of:
 - secular dynamics of planetary systems  
@@ -66,15 +66,15 @@ Selected work includes studies of:
 ---
 
 ## Mentoring
-Supervised **18 students**, leading to **13 publications** (12 student-led). :contentReference[oaicite:4]{index=4}  
+Supervised **18 students**, leading to **13 publications** (12 student-led). 
 
-Includes PhD students, master's students, and undergraduate theses at IU, PUC, and other institutions.
+Includes PhD students, master's students, and undergraduate theses at CITA, IU, PUC, and other institutions.
 
 ---
 
 ## Teaching
 Courses taught include:
-
+- **Solar System** (Indiana University)
 - **Exoplanets** (Indiana University)
 - **Astronomy Seminar** (Indiana University)
 - **Planetary and Stellar Dynamics** (PUC)
@@ -86,6 +86,7 @@ Courses taught include:
 - Reviewer for NASA, NSF, STFC, and FONDECYT programs  
 - Referee for major journals including *ApJ*, *AJ*, *MNRAS*, *A&A*, and *Nature Astronomy*  
 - Member of the American Astronomical Society and Division on Dynamical Astronomy
+- Committee member of the Division on Dynamical Astronomy
 
 ---
 
