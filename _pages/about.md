@@ -25,12 +25,12 @@ I combine **analytical theory and numerical simulations** to connect the early s
 
 I am particularly interested in the dynamical pathways that shape planetary systems, including:
 
-- migration and instability in resonant chains  
+- orbital migration and orbital resonances  
 - high-eccentricity migration and tidal evolution  
-- disk–planet interactions and the origin of orbital architectures  
+- disk–planet interactions linking protoplanetary disk morphologies to planetary architectures 
 - the long-term stability and chaotic evolution of multi-planet systems  
 
-More broadly, my work explores how gravitational interactions, dissipation, and initial conditions jointly determine the architectures of planetary systems observed today.
+More broadly, my work explores how gravitational interactions, dissipation, and initial conditions jointly determine the architectures and demographics of planetary systems, with connections to stellar and compact-object dynamics, including applications to gravitational-wave sources.
 
 ---
 
