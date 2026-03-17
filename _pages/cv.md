@@ -14,12 +14,12 @@ Indiana University Bloomington
 ---
 
 ## Research Interests
-Exoplanet dynamics and the formation and evolution of planetary systems, including orbital migration, secular dynamics, planet–planet interactions, and the dynamical origins of Neptune-mass planets.
+Exoplanet dynamics and the formation and evolution of planetary systems, including orbital migration, secular dynamics, planet–planet interactions, tidal evolution, and the architectures and demographics of exoplanet systems.
 
 ---
 
 ## Academic Appointments
-**Indiana University Bloomington** — Associate Professor of Astronomy (2024–present)
+**Indiana University Bloomington** — Associate Professor, Astronomy Department (2024–present)
 
 **Pontificia Universidad Católica de Chile** — Assistant Professor, Institute of Astrophysics (2020–2023)
 
@@ -43,12 +43,13 @@ Mathematical Engineering (2009)
 
 ## Grants as Principal Investigator
 - **NSF AST-2511257 (2025–2028)**  
-  *Explaining the Curious Orbits of Eccentric Warm Jupiters* ($610k total)
+  *Explaining the Curious Orbits of Eccentric Warm Jupiters* 
 
 - **FONDECYT Regular 1210425 (2021–2025)**  
   *Inclination history of planetary systems*
 
 - **PAI Academia Installation Grant (2020–2023)**
+  *Planet formation and evolution*
 
 ---
 
@@ -66,9 +67,9 @@ Selected work includes studies of:
 ---
 
 ## Mentoring
-Supervised **18 students**, leading to **13 publications** (12 student-led). 
+Supervised **18 students**, leading to **17 publications** (16 student-led). 
 
-Includes PhD students, master's students, and undergraduate theses at CITA, IU, PUC, and other institutions.
+Includes PhD, master's, and undergraduate students from multiple institutions while at CITA, IU, and PUC.
 
 ---
 
