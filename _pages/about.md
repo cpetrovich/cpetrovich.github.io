@@ -38,7 +38,7 @@ More broadly, my work explores how gravitational interactions, dissipation, and 
 
 Before joining Indiana University, I was an Assistant Professor at the Institute for Astrophysics at Pontificia Universidad Católica de Chile. I held postdoctoral positions as a Bart J. Bok Fellow at the University of Arizona and as a Gruber Foundation and CITA Fellow at the Canadian Institute for Theoretical Astrophysics.
 
-I received my Ph.D. in Astrophysical Sciences from Princeton University, where I worked on planet formation and orbital dynamics. Prior to that, I completed undergraduate degrees in astronomy and engineering at Pontificia Universidad Católica de Chile.
+I received my Ph.D. in Astrophysical Sciences from Princeton University, where I worked on planet formation and orbital dynamics. Prior to that, I completed undergraduate degrees in astronomy and engineering at Pontificia Universidad Católica de Chile, where I studied the thermal evolution of neutron stars.
 
 I grew up in the Chilean Patagonia, one of the southernmost regions of the American continent, and my academic path has gradually taken me northward.
 
