@@ -5,28 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find my publications in the following links:
+You can find my publications at:
 
-<div class="wordwrap" style="margin-bottom: 1em;">
+<div class="wordwrap" style="margin-bottom: 0.5em;">
   {% if site.author.ads %}
     <a href="{{ site.author.ads }}" target="_blank">ADS</a>
   {% endif %}
-  {% if site.author.ads_1st %}
-    &nbsp;|&nbsp;<a href="{{ site.author.ads_1st }}" target="_blank">First-author/Student</a>
-  {% endif %}
   {% if site.author.googlescholar %}
-    &nbsp;|&nbsp;<a href="{{ site.author.googlescholar }}" target="_blank">Scholar</a>
+    &nbsp;|&nbsp;<a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar</a>
   {% endif %}
   {% if site.author.orcid %}
     &nbsp;|&nbsp;<a href="{{ site.author.orcid }}" target="_blank">ORCID</a>
   {% endif %}
 </div>
 
-and First-author or student-led:
+{% if site.author.ads_1st %}
 <div class="wordwrap" style="margin-bottom: 1em;">
-  {% if site.author.ads_1st %}
-    &nbsp;|&nbsp;<a href="{{ site.author.ads_1st }}" target="_blank">First-author</a>
-  {% endif %}
+  <strong>Group-led publications:</strong>
+  <a href="{{ site.author.ads_1st }}" target="_blank">First-author / student-led papers</a>
 </div>
-
+{% endif %}
 
