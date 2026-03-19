@@ -31,7 +31,7 @@ author:
   location: "Bloomington, Indiana, USA"
   employer: "Indiana University Bloomington"
   links:
-    - label: "Indiana University profile"
+      label: "Indiana University profile"
       icon: "fas fa-university"
       url: "https://astro.indiana.edu/directory/faculty/petrovich-cristobal.html"
   uri              : "https://cpetrovich.com"
