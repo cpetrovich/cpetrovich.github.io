@@ -28,7 +28,7 @@ We focus on how planetary systems acquire their observed architectures, from the
 <br>
 
 <div style="display: flex; gap: 20px; align-items: center;">
-  <img src="/images/group/charalambous.jpg" width="120">
+  <img src="/images/Charalambous.jpg" width="120">
   <div>
     <strong>Carolina Charalambous</strong> (Postdoc, 2023–2025)<br>
     Research: planet–disk interactions, resonance breaking  
