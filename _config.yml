@@ -21,22 +21,20 @@ repository               : "cpetrovich/cpetrovich.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
 # Site Author
-  author:
-  avatar           : "profile.png"
-  name             : "Cristobal Petrovich"
-  pronouns         :
-  bio              : "I study the formation and dynamical evolution of planetary systems, with a focus on exoplanet dynamics, migration, tides, and orbital architectures."
-  location: "Bloomington, Indiana, USA"
-  employer: "Indiana University Bloomington"
+author:
+  avatar   : "profile.png"
+  name     : "Cristobal Petrovich"
+  bio      : "I study the formation and dynamical evolution of planetary systems, with a focus on exoplanet dynamics, migration, tides, and orbital architectures."
+  location : "Bloomington, Indiana, USA"
+  employer : "Indiana University Bloomington"
+  uri      : "https://cpetrovich.com"
+  email    : "cpetrovi@iu.edu"
+
   links:
-      label: "Indiana University profile"
+    - label: "Indiana University profile"
       icon: "fas fa-university"
       url: "https://astro.indiana.edu/directory/faculty/petrovich-cristobal.html"
-  uri              : "https://cpetrovich.com"
-  email            : "cpetrovi@iu.edu"
-
   
 
   # Academic websites
