@@ -28,10 +28,15 @@ author:
   name             : "Cristobal Petrovich"
   pronouns         :
   bio              : "I study the formation and dynamical evolution of planetary systems, with a focus on exoplanet dynamics, migration, tides, and orbital architectures."
-  location         : "Bloomington, Indiana, USA"
-  employer         : "Indiana University Bloomington"
+  location: "Bloomington, Indiana, USA"
+  employer: "Indiana University Bloomington"
+  links:
+    - label: "Indiana University profile"
+      icon: "fas fa-university"
+      url: "https://astro.indiana.edu/directory/faculty/petrovich-cristobal.html"
   uri              : "https://cpetrovich.com"
   email            : "cpetrovi@iu.edu"
+
   
 
   # Academic websites
