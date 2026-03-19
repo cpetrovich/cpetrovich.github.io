@@ -21,7 +21,7 @@ We focus on how planetary systems acquire their observed architectures, from the
   <img src="/images/group/bhaskar.jpg" width="120">
   <div>
     <strong>Hareesh Bhaskar</strong> (Postdoctoral Associate, IU, 2025–)<br>
-    Research: secular dynamics, Kozai–Lidov evolution, chaotic systems  
+    Research: secular dynamics, tides, scattering  
   </div>
 </div>
 
@@ -30,7 +30,7 @@ We focus on how planetary systems acquire their observed architectures, from the
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="/images/group/charalambous.jpg" width="120">
   <div>
-    <strong>Carolina Charalambous</strong> (Postdoc, 2023–)<br>
+    <strong>Carolina Charalambous</strong> (Postdoc, 2023–2025)<br>
     Research: planet–disk interactions, resonance breaking  
   </div>
 </div>
@@ -57,13 +57,7 @@ We focus on how planetary systems acquire their observed architectures, from the
 
 ---
 
-### Undergraduate Researchers
 
-- Nick Michaels (IU, senior thesis)  
-- Matthew Doty (Notre Dame → Rice PhD)  
-- Yurou Liu (Yale, visiting IU)  
-
----
 
 ## Alumni
 
@@ -72,10 +66,21 @@ We focus on how planetary systems acquire their observed architectures, from the
 - Juan Espinoza-Retamal → Postdoc at Princeton  
 - Marcy Best → Postdoc at YEMS  
 
-### Undergraduate / Masters
+### Graduate students (MSc or pre-PhD thesis)
 
-- Mila Winter → Princeton PhD  
+- Juan Garrido-Deutelmoser (PUC) → Arizona PhD
+- Imran Nasim (Surrey U.) → Harvard Medical School
+- Emily Deibert (UT) → Gemini Science Fellow
+
+### Undergraduate Researchers
+- Robbie Mailliard (IU, senior thesis) 
+- Nick Michaels (IU, senior thesis)  
+- Matthew Doty (Notre Dame → Rice PhD)  
+- Yurou Liu (Yale, visiting IU)  
+- Mila Winter → Princeton PhD 
 - Fernanda Correa → Chicago PhD  
 - Valentín Peña-Donaire → MSc PUC  
 - Ignacio Narea → MSc PUC  
-- Fabian Soto → Industry  
+- Fabian Soto → Industry
+- Matthew Bub → Caltech PhD 
+- Matthias He → Penn State PhD
