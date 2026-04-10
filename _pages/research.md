@@ -70,7 +70,10 @@ We focus on how planetary systems acquire their observed architectures, from the
   <div>
     <strong>Juan Ignacio Espinoza Retamal</strong> (PhD, PUC, 2020–2024) → Postdoc at Princeton (51 Pegasi fellow) <br>
     Research: planetary inclination demographics
+ </div>
 </div>
+
+<br>
 
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="/images/group/marcy.jpg" width="120">
@@ -80,6 +83,7 @@ We focus on how planetary systems acquire their observed architectures, from the
   </div>
 </div>
 
+<br>
 
 ### Graduate students (MSc or pre-PhD thesis)
 
