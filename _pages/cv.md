@@ -13,6 +13,10 @@ Indiana University Bloomington
 
 ---
 
+A full CV including publications and talks is available [**here**](https://cpetrovich.com/files/cv.pdf).
+
+---
+
 ## Research Interests
 Exoplanet dynamics and the formation and evolution of planetary systems, including orbital migration, secular dynamics, planet–planet interactions, tidal evolution, and the architectures and demographics of exoplanet systems.
 
@@ -88,7 +92,3 @@ Courses taught include:
 - Referee for major journals including *ApJ*, *AJ*, *MNRAS*, *A&A*, and *Nature Astronomy*  
 - Member of the American Astronomical Society and Division on Dynamical Astronomy
 - Committee member of the Division on Dynamical Astronomy
-
----
-
-A full CV including publications and talks is available **[here](/files/cv.pdf)**.
