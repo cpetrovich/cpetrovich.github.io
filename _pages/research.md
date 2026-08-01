@@ -18,7 +18,7 @@ We focus on how planetary systems acquire their observed architectures, from the
 ### Postdoctoral Researchers
 
 <div style="display: flex; gap: 20px; align-items: center;">
-  <img src="/images/group/bhaskar.jpg" width="120">
+  <img src="/images/group/bhaskar.png" width="120">
   <div>
     <strong>Hareesh Bhaskar</strong> (Postdoctoral Associate, IU, 2025–)<br>
     Research: secular dynamics, tides, scattering  
@@ -30,7 +30,7 @@ We focus on how planetary systems acquire their observed architectures, from the
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="/images/Charalambous.jpg" width="120">
   <div>
-    <strong>Carolina Charalambous</strong> (Postdoc, 2023–2025)<br>
+    <strong>Carolina Charalambous</strong> (Postdoc, 2023–2024)<br>
     Research: planet–disk interactions, resonance breaking  
   </div>
 </div>
@@ -66,7 +66,7 @@ We focus on how planetary systems acquire their observed architectures, from the
 ### PhD Students
 
 <div style="display: flex; gap: 20px; align-items: center;">
-  <img src="/images/group/JIE.jpg" width="120">
+  <img src="/images/group/JIE.png" width="120">
   <div>
     <strong>Juan Ignacio Espinoza Retamal</strong> (PhD, PUC, 2020–2024) → Postdoc at Princeton (51 Pegasi fellow) <br>
     Research: planetary inclination demographics
@@ -92,7 +92,9 @@ We focus on how planetary systems acquire their observed architectures, from the
 - Emily Deibert (UT) → Gemini Science Fellow
 
 ### Undergraduate Researchers
+- Rafael Diaz (IU, Palma research program)
 - Robbie Mailliard (IU, senior thesis) 
+- Ariel Smyrichinsky (IU, Palma research program)
 - Nick Michaels (IU, senior thesis)  
 - Matthew Doty (Notre Dame → Rice PhD)  
 - Yurou Liu (Yale, visiting IU)  
