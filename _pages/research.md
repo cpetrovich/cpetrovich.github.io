@@ -81,6 +81,7 @@ We focus on how planetary systems acquire their observed architectures, from the
   <img src="/images/group/marcy.png" width="120">
   <div>
     <strong>Marcy Best</strong> (PhD, PUC, 2020–2024) → Postdoc at YEMS (Chile)  <br>
+    Thesis: <em>Influence of external perturbers on inner planet formation</em><br>
     Research: formation of close-in planets by planetesimal accretion  
   </div>
 </div>
