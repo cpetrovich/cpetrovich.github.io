@@ -33,7 +33,7 @@ We focus on how planetary systems acquire their observed architectures, from the
   <img src="/images/group/lorusso.png" width="120">
   <div>
     <strong>Ryan LoRusso</strong> (PhD, IU, 2024–)<br>
-    Research: cold Neptunes, resonance breaking  
+    Research: cold Neptunes, resonance breaking, debris disks, free-floating planets
   </div>
 </div>
 
