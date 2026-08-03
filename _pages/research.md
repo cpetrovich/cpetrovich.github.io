@@ -27,16 +27,6 @@ We focus on how planetary systems acquire their observed architectures, from the
 
 <br>
 
-<div style="display: flex; gap: 20px; align-items: center;">
-  <img src="/images/Charalambous.jpg" width="120">
-  <div>
-    <strong>Carolina Charalambous</strong> (Postdoc, 2023–2024)<br>
-    Research: planet–disk interactions, resonance breaking  
-  </div>
-</div>
-
----
-
 ### PhD Students
 
 <div style="display: flex; gap: 20px; align-items: center;">
@@ -62,6 +52,18 @@ We focus on how planetary systems acquire their observed architectures, from the
 
 
 ## Alumni
+
+### Postdoctoral Researchers
+
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img src="/images/Charalambous.jpg" width="120">
+  <div>
+    <strong>Carolina Charalambous</strong> (Postdoc, 2023–2024)<br>
+    Research: planet–disk interactions, resonance breaking
+  </div>
+</div>
+
+<br>
 
 ### PhD Students
 
