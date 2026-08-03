@@ -20,7 +20,7 @@ We focus on how planetary systems acquire their observed architectures, from the
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="/images/group/bhaskar.png" width="120">
   <div>
-    <a href="https://bhareeshg.github.io/"><strong>Gautham Hareesh Bhaskar</strong></a> (Postdoctoral Associate, IU, 2025–)<br>
+    <a href="https://bhareeshg.github.io/"><strong>Hareesh Gautham Bhaskar</strong></a> (Postdoctoral Associate, IU, 2025–)<br>
     Research: secular dynamics, tides, scattering  
   </div>
 </div>
