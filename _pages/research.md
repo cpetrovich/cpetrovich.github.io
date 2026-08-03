@@ -40,7 +40,7 @@ We focus on how planetary systems acquire their observed architectures, from the
 ### PhD Students
 
 <div style="display: flex; gap: 20px; align-items: center;">
-  <img src="/images/group/lorusso.jpg" width="120">
+  <img src="/images/group/lorusso.png" width="120">
   <div>
     <strong>Ryan LoRusso</strong> (PhD, IU, 2024–)<br>
     Research: cold Neptunes, resonance breaking  
@@ -50,7 +50,7 @@ We focus on how planetary systems acquire their observed architectures, from the
 <br>
 
 <div style="display: flex; gap: 20px; align-items: center;">
-  <img src="/images/group/heron.jpg" width="120">
+  <img src="/images/group/heron.png" width="120">
   <div>
     <strong>Agustin Heron</strong> (PhD, IU, 2024–)<br>
     Research: planet–disk interactions, resonance demographics
@@ -76,7 +76,7 @@ We focus on how planetary systems acquire their observed architectures, from the
 <br>
 
 <div style="display: flex; gap: 20px; align-items: center;">
-  <img src="/images/group/marcy.jpg" width="120">
+  <img src="/images/group/marcy.png" width="120">
   <div>
     <strong>Marcy Best</strong> (PhD, PUC, 2020–2024) → Postdoc at YEMS (Chile)  <br>
     Research: formation of close-in planets by planetesimal accretion  
