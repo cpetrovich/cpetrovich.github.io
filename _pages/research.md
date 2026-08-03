@@ -43,7 +43,7 @@ We focus on how planetary systems acquire their observed architectures, from the
   <img src="/images/group/heron.png" width="120">
   <div>
     <strong>Agustin Heron</strong> (PhD, IU, 2024–)<br>
-    Research: planet–disk interactions, resonance demographics
+    Research: planet–disk interactions, resonance dynamics and demographics
   </div>
 </div>
 
