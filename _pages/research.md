@@ -71,6 +71,7 @@ We focus on how planetary systems acquire their observed architectures, from the
   <img src="/images/group/JIE.png" width="120">
   <div>
     <a href="https://jiespinozar.github.io/"><strong>Juan Ignacio Espinoza Retamal</strong></a> (PhD, PUC, 2020–2024) → Postdoc at Princeton (51 Pegasi fellow) <br>
+    Thesis: <em>Constraining the flatness of planetary systems</em><br>
     Research: planetary inclination demographics
  </div>
 </div>
