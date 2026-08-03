@@ -91,7 +91,8 @@ We focus on how planetary systems acquire their observed architectures, from the
 
 ### Graduate students (MSc or pre-PhD thesis)
 
-- Juan Garrido-Deutelmoser (PUC) → Arizona PhD
+- Juan Garrido-Deutelmoser (PUC) → Arizona PhD<br>
+  Thesis: *Substructures in Protoplanetary Disks Imprinted by Compact Planetary Systems*
 - Imran Nasim (Surrey U.) → Harvard Medical School
 - Emily Deibert (UT) → Gemini Science Fellow
 
