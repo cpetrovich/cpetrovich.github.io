@@ -58,7 +58,7 @@ We focus on how planetary systems acquire their observed architectures, from the
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="/images/Charalambous.jpg" width="120">
   <div>
-    <strong>Carolina Charalambous</strong> (Postdoc, 2023–2024)<br>
+    <a href="https://sites.google.com/view/carolina-charalambous/home?authuser=0"><strong>Carolina Charalambous</strong></a> (Fondecyt Postdoctoral Fellow, 2023–2024)<br>
     Research: planet–disk interactions, resonance breaking
   </div>
 </div>
