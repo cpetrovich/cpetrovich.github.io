@@ -13,9 +13,7 @@ Indiana University Bloomington
 
 ---
 
-A public-facing CV with selected publications and talks is available [**here**](https://cpetrovich.com/files/cv.pdf).
-
-A complete CV with all publications and talks is available [**here**](https://cpetrovich.com/files/cv_full.pdf).
+A CV with selected publications and talks is available [**here**](https://cpetrovich.com/files/cv.pdf).
 
 ---
 
