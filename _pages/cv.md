@@ -59,8 +59,8 @@ Mathematical Engineering (2009)
 
 ## Publications
 - **63 refereed papers** (29 first-author or student-led)  
-- **ADS citations:** 2700+  
-- **h-index:** 28 
+- **ADS:** 3,036 citations; h-index 28
+- **Google Scholar:** 3,838 citations; h-index 32
 
 Selected work includes studies of:
 - secular dynamics of planetary systems  
