@@ -46,6 +46,9 @@ Mathematical Engineering (2009)
 ---
 
 ## Grants as Principal Investigator
+- **NASA Exoplanets Research Program (XRP) 80NSSC26K1389 (2026–2029; $464,765)**<br>
+  *The Role of Cold Neptunes in Shaping Planetary Systems*
+
 - **NSF AST-2511257 (2025–2028)**  
   *Explaining the Curious Orbits of Eccentric Warm Jupiters* 
 
@@ -58,7 +61,7 @@ Mathematical Engineering (2009)
 ---
 
 ## Publications
-- **63 refereed papers** (29 first-author or student-led)  
+- **70 refereed papers** (16 first-author; 34 group-led)
 - **ADS:** 3,036 citations; h-index 28
 - **Google Scholar:** 3,838 citations; h-index 32
 
