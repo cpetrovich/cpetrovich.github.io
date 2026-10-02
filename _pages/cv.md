@@ -46,7 +46,7 @@ Mathematical Engineering (2009)
 ---
 
 ## Grants as Principal Investigator
-- **NASA Exoplanets Research Program (XRP) 80NSSC26K1389 (2026–2029; $464,765)**<br>
+- **NASA Exoplanets Research Program (XRP) 80NSSC26K1389 (2026–2029)**<br>
   *The Role of Cold Neptunes in Shaping Planetary Systems*
 
 - **NSF AST-2511257 (2025–2028)**  
